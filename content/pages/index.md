@@ -3,7 +3,7 @@ title: Wicked Nextjs Starter
 layout: page
 intro:
   name: Michael
-  role: Copy Paster
+  role: Web Developer
   description: >-
     A random guy learning front-end and ui/ux design by itself while building
     projects.
