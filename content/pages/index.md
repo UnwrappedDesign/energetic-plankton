@@ -2,7 +2,7 @@
 title: Wicked Nextjs Starter
 layout: page
 intro:
-  name: Michael.A
+  name: Kevin Hart
   role: Copy paster.
   description: >-
     A random guy learning front-end and ui/ux design by itself while building
