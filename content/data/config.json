@@ -1,0 +1,48 @@
+{
+	"title": "Wicked Nextjs Starter",
+	"path_prefix": "/",
+	"menu": {
+    "links": [{
+      "label": "Projects",
+      "url": "#projects"
+    }, {
+      "label": "Now",
+      "url": "#now"
+    }, {
+      "label": "Contact",
+      "url": "#contact"
+    }]
+	},
+	"footer": {
+    "has_nav": true,
+    "nav_links": [{
+      "label": "Templates",
+      "url": "https://www.wickedtemplates.com/templates.html"
+    }, {
+      "label": "Freebies",
+      "url": "https://www.wickedtemplates.com/demos.html"
+    }, {
+      "label": "Pricing",
+      "url": "https://www.wickedtemplates.com/pricing.html"
+    }],
+    "has_social": true,
+    "social_links": [{
+      "label": "facebook",
+      "url": "test"
+    }, {
+      "label": "twitter",
+      "url": "https://twitter.com/wickedlabshq"
+    }, {
+      "label": "instagram",
+      "url": ""
+    }, {
+      "label": "linkedin",
+      "url": "test"
+    }],
+    "copyright": "© 2020",
+    "copyright_link": {
+      "label": "@wickedtemplates",
+      "url": "https://twitter.com/wickedtemplates"
+    }
+  }
+}
