@@ -2,7 +2,7 @@
 title: Wicked Nextjs Starter
 layout: page
 intro:
-  name: Michael
+  name: Kevin Hart
   role: Web Developer
   description: >-
     A random guy learning front-end and ui/ux design by itself while building
